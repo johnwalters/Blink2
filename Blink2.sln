@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blink2", "Blink2.csproj", "{DBBADB30-6947-4D94-B78A-7EE652FA8935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBADB30-6947-4D94-B78A-7EE652FA8935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBADB30-6947-4D94-B78A-7EE652FA8935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBADB30-6947-4D94-B78A-7EE652FA8935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBADB30-6947-4D94-B78A-7EE652FA8935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985452A9-F124-432B-81DE-419E8F88C07A}
+	EndGlobalSection
+EndGlobal
